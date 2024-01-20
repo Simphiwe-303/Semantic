@@ -10,7 +10,7 @@ open command prompt and run the following lines of code
 
 git clone https://github.com/Simphiwe-303/Semantic.git
 
-cd Garden
+cd Semantic
 
 Note! your *image_name* can be any name you like 
 
@@ -34,7 +34,7 @@ sudo service docker start
 
 git clone https://github.com/Simphiwe-303/Semantic.git
 
-cd Garden
+cd Semantic
 
 Note! your *image_name* can be any name you like 
 
